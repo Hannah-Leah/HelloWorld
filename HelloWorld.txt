@@ -1,4 +1,6 @@
 Hello world or so :000000
 This is the new version
 
+Bug fix example!
+
 what..
