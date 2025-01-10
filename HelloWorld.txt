@@ -6,3 +6,5 @@ Bug fix example!
 what..
 
 MEOWWWWWW
+
+This is a new line of text from local repository!
